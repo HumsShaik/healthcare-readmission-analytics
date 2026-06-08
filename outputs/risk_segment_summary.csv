@@ -1,0 +1,4 @@
+risk_segment,encounters,unique_patients,readmission_rate,avg_los,avg_medications,avg_total_utilization
+High Risk,15372,10247,61.04,5.9,24.49,4.27
+Low Risk,46444,44677,36.81,3.57,11.81,0.1
+Moderate Risk,39950,30667,51.13,4.78,17.66,1.31
