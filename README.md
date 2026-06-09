@@ -325,7 +325,7 @@ Enable healthcare providers to prioritize:
 
 ---
 
-# Streamlit Dashboard
+## Streamlit Dashboard
 
 ### Features
 
@@ -335,11 +335,20 @@ Enable healthcare providers to prioritize:
 - Machine Learning Insights
 - Business Recommendations
 
-## Streamlit Dashboard
+### Dashboard Screenshots
 
-![Streamlit Dashboard](images/dashboard_overview.png)
-[Streamlit Dashboard](images/ml_insights.png)
-[Streamlit Dashboard](images/risk_analysis.png)
+## Executive Overview
+
+![Executive Overview](images/dashboard_overview.png)
+
+## Risk Analysis
+
+![Risk Analysis](images/risk_analysis.png)
+
+## Machine Learning Insights
+
+![Machine Learning Insights](images/ml_insights.png)
+
 ---
 
 # Power BI Dashboard
@@ -366,24 +375,6 @@ Enable healthcare providers to prioritize:
 - Model Performance
 - Feature Importance
 - Key Findings
-
----
-
-# Dashboard Screenshots
-
-## Executive Overview
-
-![Executive Overview](images/dashboard_overview.png)
-
-## Risk Analysis
-
-![Risk Analysis](images/risk_analysis.png)
-
-## Machine Learning Insights
-
-![Machine Learning Insights](images/ml_insights.png)
-
----
 
 # Power Bi Screenshots
 
