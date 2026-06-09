@@ -373,11 +373,7 @@ Enable healthcare providers to prioritize:
 
 ## Executive Overview
 
-![Executive Overview](images/executive_overview.png)
-
-## Patient Demographics
-
-![Demographics](images/demographics.png)
+![Executive Overview](images/dashboard_overview.png)
 
 ## Risk Analysis
 
@@ -386,6 +382,26 @@ Enable healthcare providers to prioritize:
 ## Machine Learning Insights
 
 ![Machine Learning Insights](images/ml_insights.png)
+
+---
+
+# Power Bi Screenshots
+
+## Executive Overview
+
+![Executive Overview](powerbi/images/executive_overview.png)
+
+## Patient Demographics
+
+![Demographics](powerbi/images/demographics.png)
+
+## Risk Analysis
+
+![Risk Analysis](powerbi/images/risk_analysis.png)
+
+## Machine Learning Insights
+
+![Machine Learning Insights](powerbi/images/ml_insights.png)
 
 ---
 
